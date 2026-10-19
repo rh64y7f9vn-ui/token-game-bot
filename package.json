@@ -1,0 +1,10 @@
+
+{
+  "name": "token-game-bot",
+  "version": "1.0.0",
+  "description": "Telegram group game with colored chips",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
